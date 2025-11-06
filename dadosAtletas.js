@@ -3,7 +3,7 @@ class Atleta {
         this.nome = nome;
         this.idade = idade;
         this.peso = peso;
-        this.altura = altura;
+        this.altura = altura;''
         this.notas = notas;
     }
 
